@@ -24,5 +24,8 @@
         "morgan": "^1.10.0",
         "nodemon": "^2.0.22",
         "react-hot-toast": "^2.4.1"
+    },
+    "devDependencies": {
+        "concurrently": "^8.2.0"
     }
 }
